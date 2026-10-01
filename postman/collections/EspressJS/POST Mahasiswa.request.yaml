@@ -1,0 +1,11 @@
+$kind: http-request
+url: http://localhost:3000/mahasiswa
+method: POST
+body:
+  type: formdata
+  content:
+    - type: text
+      key: nama
+      value: John Doe
+      disabled: false
+order: 4446363441532111

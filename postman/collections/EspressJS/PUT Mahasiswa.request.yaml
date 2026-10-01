@@ -1,0 +1,4 @@
+$kind: http-request
+url: http://localhost:3000/mahasiswa
+method: PUT
+order: 4472409654338621

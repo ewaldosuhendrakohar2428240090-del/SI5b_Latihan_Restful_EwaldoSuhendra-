@@ -1,0 +1,7 @@
+$kind: http-request
+url: http://localhost:3000/mahasiswa
+method: GET
+body:
+  type: json
+  content: '{ "nama": "Budi Santoso", "jurusan": "Informatika" }'
+order: 3705512103682614

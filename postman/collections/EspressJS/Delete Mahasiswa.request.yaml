@@ -1,0 +1,4 @@
+$kind: http-request
+url: http://localhost:3000/mahasiswa
+method: DELETE
+order: 4496500737436907
